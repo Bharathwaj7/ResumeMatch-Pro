@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+PyPDF2
+groq
+fpdf2
+pandas
+tiktoken
+requests
