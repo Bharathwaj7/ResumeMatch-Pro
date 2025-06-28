@@ -2,7 +2,7 @@
 
 **Intelligent Resume Analysis and GitHub Project Selection**
 
-ResumeMatch Pro is a comprehensive AI-powered tool designed to help job seekers optimize their resumes and select the most relevant GitHub projects for job applications.
+ResumeMatch Pro is an AI-powered tool that helps job seekers optimize their resumes and select the most relevant GitHub projects based on job descriptions. It analyzes resume content for keyword matches, evaluates job fit, and integrates with GitHub to generate ATS-optimized project summaries—boosting your chances of landing technical roles.
 
 ---
 
@@ -63,14 +63,14 @@ streamlit run app.py
 
 ## 📦 Dependencies
 ```bash
-streamlit>=1.28.0
-python-dotenv>=1.0.0
-groq>=0.4.0
-PyPDF2>=3.0.0
-fpdf2>=2.7.0
-pandas>=2.0.0
-tiktoken>=0.5.0
-requests>=2.31.0
+streamlit >= 1.28.0
+python-dotenv >= 1.0.0
+groq >= 0.4.0
+PyPDF2 >= 3.0.0
+fpdf2 >= 2.7.0
+pandas >= 2.0.0
+tiktoken >= 0.5.0
+requests >= 2.31.0
 ```
 
 ## 🔧 Usage
